@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX Design, Photography, and Human Development.
 - 🌱 I’m currently learning UX design and Frontend Development with CareerFoundry.
 - 💞️ I’m looking to collaborate on projects specific to the arts or early education field.
-- 📫 How to reach me: alexnoellex@gmail.com or Instagram: codewordalex
+- 📫 How to reach me: alexnoellex@gmail.com or Instagram: @alexnoelletech
 
 <!---
 alexnoelle07/alexnoelle07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
